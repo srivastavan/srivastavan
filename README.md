@@ -3,7 +3,7 @@
 - 👋 I’m Namrata
 - 👀 I’m interested in exploring how data science techniques can be applied to real-life datasets. 
 - 🌱 I’m currently an educational data scientist, and have experience working with large scale educational datasets.
-- 💞️ I’m looking forward to exploring new research domains (healthcare, business analytics, speech recognition,...) and keep improving my analytical skills.
+- 💞️ I’m looking forward to exploring new ideas and keep improving my skills.
 
 Happy coding 😅
 
